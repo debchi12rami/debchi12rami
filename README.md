@@ -18,8 +18,6 @@
 
 I build AI systems that actually ship, from training computer vision models to wrapping them in full-stack apps people can use.
 
-- 🔭 **Currently building:** [your current project]
-- 🌱 **Currently learning:** [e.g., LLMs, RAG, MLOps]
 - 💬 **Ask me about:** computer vision, YOLO, deep learning, building AI products
 - 📍 **Open to:** AI/ML engineering roles and interesting collaborations
 
