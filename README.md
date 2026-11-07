@@ -54,12 +54,14 @@ Upload a meal photo, and NutriVision detects the foods with **YOLOv8**, estimate
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=debchi12rami&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debchi12rami&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/debchi12rami?style=for-the-badge&logo=github&label=Followers)](https://github.com/debchi12rami?tab=followers)
+[![NutriVision Stars](https://img.shields.io/github/stars/debchi12rami/nutrivision?style=for-the-badge&logo=github&label=NutriVision%20Stars)](https://github.com/debchi12rami/nutrivision)
+[![Top Language](https://img.shields.io/github/languages/top/debchi12rami/nutrivision?style=for-the-badge&label=Main%20Language)](https://github.com/debchi12rami/nutrivision)
+[![Last Commit](https://img.shields.io/github/last-commit/debchi12rami/nutrivision?style=for-the-badge&label=Last%20Commit)](https://github.com/debchi12rami/nutrivision/commits/main)
 
 </div>
 
