@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm YOUR Rami 👋
+# Hi, I'm Rami 👋
 
 ### AI Engineer 🤖 | Turning raw data into intelligent systems
 
